@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: gitops-node-app
-          image: 825252491923.dkr.ecr.us-east-1.amazonaws.com/gitops-node-app:v1
+          image: 825252491923.dkr.ecr.us-east-1.amazonaws.com/gitops-node-app:v2
 
           ports:
             - containerPort: 3000
